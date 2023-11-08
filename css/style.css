@@ -4,3 +4,32 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*reset*/
+/*typography*/
+body{
+    color:white;
+}
+li{
+    list-style: none;
+}
+/*typography*/
+
+/*DOM*/
+li{
+    display: flex;
+    width:100px;
+    height:100px;
+    border: 1px solid rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+}
+body{
+    background-color: rgb(6, 3, 53);
+}
+
+.container{
+ max-width: 70%;
+ margin: 0 auto;
+}
+/*DOM*/
