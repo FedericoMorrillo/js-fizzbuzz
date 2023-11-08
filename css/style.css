@@ -7,10 +7,11 @@
 /*reset*/
 /*typography*/
 body{
-    color:white;
+    color: black;
 }
 li{
     list-style: none;
+    background-color: #808782;
 }
 /*typography*/
 
